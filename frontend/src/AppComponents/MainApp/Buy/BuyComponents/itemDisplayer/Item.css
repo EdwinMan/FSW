@@ -1,0 +1,11 @@
+.a-price-symbol{
+    top: -.5em;
+    font-size: 12px;
+    position: relative;
+    line-height: normal;
+}
+
+.a-price-whole{
+    font-size: 21px;
+    line-height: normal;
+}

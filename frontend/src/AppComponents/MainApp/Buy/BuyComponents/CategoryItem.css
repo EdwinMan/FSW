@@ -1,0 +1,16 @@
+.MuiT{
+    font-weight: bold;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    line-height: 1.334;
+    text-align:left;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #0F1111!important;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27.3px!important;
+    padding-left: 15px;
+    padding-top: 15px;
+}

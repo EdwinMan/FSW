@@ -1,0 +1,10 @@
+.searchC{
+
+    font-family: "Amazon Ember",Arial,sans-serif;
+    line-height: 16px!important;
+    color: #0F1111!important;
+    font-size: 15px!important;
+    cursor: pointer;
+    word-break: break-word;
+    margin-left: 5px;
+}
